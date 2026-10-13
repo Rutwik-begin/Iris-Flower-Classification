@@ -1,0 +1,6 @@
+mlflow
+klearn
+pandas
+gradio
+joblib
+pytest

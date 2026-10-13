@@ -1,0 +1,14 @@
+{
+  "model_name": "Logistic_Regression",
+  "feature_names": [
+    "sepal length (cm)",
+    "sepal width (cm)",
+    "petal length (cm)",
+    "petal width (cm)"
+  ],
+  "target_names": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ]
+}

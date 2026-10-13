@@ -1,6 +1,5 @@
-mlflow
-klearn
+
+gradio==6.30.0
 pandas
-gradio
 joblib
-pytest
+scikit-learn==1.9.1
